@@ -5,6 +5,9 @@
 
     <application
         android:label="FloatingFPS"
+        android:icon="@drawable/app_icon"
+        android:roundIcon="@drawable/app_icon"
+        
         android:theme="@android:style/Theme.Material.Light">
 
         <activity
